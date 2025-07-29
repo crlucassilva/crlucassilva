@@ -14,10 +14,10 @@
 </div>
 <br>
 
-Sou um **Engenheiro Mecânico** apaixonado por **Tecnologia** e atualmente estudante de **Engenharia de Software**. Minha jornada profissional me permitiu adquirir uma base sólida em **engenharia**, **processos** e **automação**, e agora estou em busca de aprimorar minhas habilidades em **desenvolvimento de software**.
+Sou **Engenheiro Mecânico** apaixonado por **Tecnologia** e atualmente estudante de **Engenharia de Software**. Minha jornada profissional permitiu-me adquirir uma base sólida em **engenharia**, **processos** e **automação**, e agora estou em busca de aprimorar minhas habilidades em **desenvolvimento de software**.
 
 ### 🚀 O que eu faço
-Estou sempre em busca de otimizar processos e criar soluções que tragam valor real. Nos últimos anos, mergulhei profundamente em **Java**, **Kotlin** e **Spring Boot**, aplicando essas tecnologias para automação, integração de sistemas e criação de aplicativos.
+Estou sempre em busca de otimizar processos e criar soluções que tragam valor real. Nos últimos anos, mergulhei profundamente em **Java**, **Kotlin**  e suas aplicações, incluindo **Spring Boot**, **integrações com Bancos de dados**, **arquitetura de software** e **padrões de projetos**, aplicando essas tecnologias para automação, integração de sistemas e criação de aplicativos.
 
 Atualmente, estou desenvolvendo um **aplicativo Kotlin** para monitoramento de produtividade em **máquinas industriais** de confeitaria e salgados.
 
