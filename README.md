@@ -1,13 +1,5 @@
 ## Olá, sou Lucas Silva! 👋
 
- <div>
-  <a href="https://github.com/crlucassilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crlucassilva&show_icons=true&theme=dark&include_all_commit=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crlucassilva&layout=compact&langs_cont=16&theme=dark"/>  
-</div>
-
-## 
-
 <div>
   <a href="mailto:lucas.cristiano96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/crlucassilva" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
